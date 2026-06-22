@@ -17,19 +17,19 @@ Berikut adalah diagram arsitektur yang telah dirancang untuk memodelkan sistem i
 
 ### 1. Use Case Diagram
 Diagram Use Case menggambarkan interaksi antara pengguna (aktor) dengan sistem, serta fungsionalitas utama yang tersedia.
-![Use Case Diagram](./architecture/USECASE.png)
+![Use Case Diagram](./images/USECASE.png)
 
 ### 2. Activity Diagram
 Activity Diagram memvisualisasikan alur kerja (workflow) atau aktivitas dari sebuah proses di dalam sistem, dari awal hingga akhir.
-![Activity Diagram](./architecture/ACTIVITY%20DIAGRAM.png)
+![Activity Diagram](./images/ACTIVITY%20DIAGRAM.png)
 
 ### 3. Sequence Diagram
 Sequence Diagram menjelaskan interaksi antar objek atau komponen dalam sistem berdasarkan urutan pesan dan waktu.
-![Sequence Diagram](./architecture/SEQUENCE%20DIAGRAM.png)
+![Sequence Diagram](./images/SEQUENCE%20DIAGRAM.png)
 
 ### 4. Class Diagram
 Class Diagram menunjukkan struktur statis dari sistem dengan mendefinisikan kelas, atribut, metode (operasi), serta hubungan (relasi) antar kelas.
-![Class Diagram](./architecture/CLASS%20DIAGRAM.png)
+![Class Diagram](./images/CLASS%20DIAGRAM.png)
 
 ---
 
