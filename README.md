@@ -33,20 +33,5 @@ Class Diagram menunjukkan struktur statis dari sistem dengan mendefinisikan kela
 
 ---
 
-## 🛠️ Teknologi & Tools
-*(Anda dapat mengubah bagian ini sesuai dengan tools yang digunakan)*
-* **UML Design Tool**: Draw.io / StarUML / PlantUML / Visual Paradigm
-* **Dokumentasi**: Markdown (`.md`)
-
----
-
-## 🚀 Cara Menjalankan / Menggunakan
-1. Clone repositori ini ke penyimpanan lokal Anda:
-   ```bash
-   git clone <URL_REPOSITORI_ANDA>
-   ```
-2. Anda dapat melihat berbagai diagram sistem pada folder `architecture/`.
-
----
 
 > *Dokumentasi ini dibuat untuk memenuhi tugas / project mata kuliah Rekayasa Perangkat Lunak.*
