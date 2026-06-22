@@ -33,5 +33,15 @@ Class Diagram menunjukkan struktur statis dari sistem dengan mendefinisikan kela
 
 ---
 
+## ⚙️ Rencana Pemeliharaan (Maintenance Plan)
+Proyek ini juga mencakup dokumen rencana pemeliharaan perangkat lunak (Studi Kasus: Sistem Manajemen Perpustakaan) yang mencakup 4 jenis pemeliharaan:
+* **Corrective**: Perbaikan *bug* dan *error*.
+* **Adaptive**: Penyesuaian dengan perubahan lingkungan atau teknologi baru.
+* **Perfective**: Peningkatan fitur dan optimasi kinerja sistem.
+* **Preventive**: *Refactoring* dan pengujian untuk mencegah *error* di masa depan.
+
+📄 **Lihat Dokumen Lengkap:** [maintenance-plan.md](./maintenance/maintenance-plan.md)
+
+---
 
 > *Dokumentasi ini dibuat untuk memenuhi tugas / project mata kuliah Rekayasa Perangkat Lunak.*
